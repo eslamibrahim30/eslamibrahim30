@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a real-time chat application using Node.js and Socket.IO**
 
-- 🌱 I’m currently learning **backend development, system design, and computer science fundamentals**
+- 🌱 I’m currently learning **backend development and system design**
 
 - 👯 I’m looking to collaborate on **open-source backend projects and real-time applications**
 
