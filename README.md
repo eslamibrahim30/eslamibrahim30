@@ -34,10 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamibrahim30&show_icons=true&locale=en" alt="eslamibrahim30" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamibrahim30&" alt="eslamibrahim30" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamibrahim30&show_icons=true&locale=en&layout=compact" alt="eslamibrahim30" /></p>
-
