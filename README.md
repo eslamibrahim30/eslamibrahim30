@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
 <h3 align="center">A passionate software engineer and backend developer</h3>
 
-- 🔭 I’m currently working on **a Subscription Management System**
-
 - 🌱 I’m currently learning **backend development and system design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eslamibrahim30](https://github.com/eslamibrahim30)
