@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **backend development and system design**
 
-- 👯 I’m looking to collaborate on **open-source backend projects and real-time applications**
-
-- 🤝 I’m looking for help with **contributing to open-source and mastering scalable architectures**
-
 - 👨‍💻 All of my projects are available at [https://github.com/eslamibrahim30](https://github.com/eslamibrahim30)
 
 - 📫 How to reach me **islam.sweng@gmail.com**
