@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
 <h3 align="center">Full-Stack Software Engineer | Node.js · React · AI/RAG Pipelines</h3>
 
-<p align="center">
-Full-stack software engineer with hands-on experience delivering AI-integrated APIs, server-side rendered frontends, and DevOps workflows. Specialized in Node.js, React, and LangChain RAG pipelines — including building a bilingual contract analyzer that processes multi-page PDFs in under 5 seconds. Graduate of ITI's Intensive Training Program, seeking a full-stack or backend role on scalable, user-facing systems.
-</p>
-
 ---
 
 ### 🔭 Currently working on
