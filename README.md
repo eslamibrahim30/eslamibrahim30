@@ -12,12 +12,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,bash,c,react,nextjs,tailwind,html,css,nodejs,express,nestjs,postgres,mongodb,docker,git,github,npm,jest,vitest" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,c,cpp,bash,react,nextjs,tailwind,bootstrap,sass,html,css,nodejs,express,nestjs,postgres,mongodb,redis,docker,aws,nginx,ubuntu,netlify,githubactions,git,github,gradle,npm,postman,jest,vitest,vim,obsidian" />
   </a>
 </p>
 
 **AI & Vector Search:** LangChain · Retrieval-Augmented Generation (RAG) · Pinecone
-**Also used:** Playwright for end-to-end testing (no skillicons badge available for it yet)
+**Also used:** Playwright for end-to-end testing
 
 ---
 
